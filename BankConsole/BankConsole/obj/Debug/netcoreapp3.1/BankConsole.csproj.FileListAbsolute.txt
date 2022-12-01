@@ -1,0 +1,56 @@
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.exe
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.deps.json
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.json
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.dev.json
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.AssemblyReference.cache
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfoInputs.cache
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfo.cs
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Dell T3610\source\repos\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.genruntimeconfig.cache
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.exe
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.deps.json
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.json
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.dev.json
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.AssemblyReference.cache
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfoInputs.cache
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfo.cs
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.CoreCompileInputs.cache
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Влад Гук\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.genruntimeconfig.cache
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.exe
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.deps.json
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.json
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.dev.json
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.AssemblyReference.cache
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfoInputs.cache
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfo.cs
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.CoreCompileInputs.cache
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Dell T3610\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.genruntimeconfig.cache
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.exe
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.deps.json
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.json
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.runtimeconfig.dev.json
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\bin\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.AssemblyReference.cache
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfoInputs.cache
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.AssemblyInfo.cs
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.dll
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.pdb
+C:\Users\Notebook\Desktop\BankConsole\BankConsole\obj\Debug\netcoreapp3.1\BankConsole.genruntimeconfig.cache

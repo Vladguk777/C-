@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BankConsole.CBank">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankConsole.CClinerMan">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="BankConsole.CPerson" FixedFromPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.247" />
+        <Point X="6.5" Y="2.875" />
+        <Point X="10" Y="2.875" />
+        <Point X="10" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="CVinnik" Type="BankConsole.CVinnik" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.75" Y="4.688" />
+        <Point X="11.125" Y="4.688" />
+        <Point X="11.125" Y="5.687" />
+        <Point X="11.5" Y="5.687" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAEAAQAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CVinnik" />
+      <Property Name="CBank" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BankConsole.CComputer">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAEAAAAIAQAAAQAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankConsole.CConsultant">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="BankConsole.CPerson" FixedFromPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.247" />
+        <Point X="6.5" Y="2.875" />
+        <Point X="7.75" Y="2.875" />
+        <Point X="7.75" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankConsole.CCustomer">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="BankConsole.CPerson" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.247" />
+        <Point X="6.5" Y="2.875" />
+        <Point X="5.438" Y="2.875" />
+        <Point X="5.438" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAQCAAQAAAAAAAAAAAAAIAAAAAAQgAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CBank" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BankConsole.CEmployee">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <InheritanceLine Type="BankConsole.CPerson" FixedFromPoint="true">
+      <Path>
+        <Point X="6.5" Y="2.247" />
+        <Point X="6.5" Y="2.875" />
+        <Point X="3.5" Y="2.875" />
+        <Point X="3.5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAQAAAAAAQAAAAAAAAEAAAQIAAADhA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CComputer" />
+      <Property Name="CBank" />
+      <Property Name="ReportBankSingleton" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BankConsole.CPerson">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankConsole.CVinnik">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BankConsole.ReportBankSingleton">
+    <Position X="0.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAABAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
